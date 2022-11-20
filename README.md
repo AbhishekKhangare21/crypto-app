@@ -1,5 +1,4 @@
-About This Project
-Name-Project cryptoverse
+About Project cryptoverse
 
 Description-
 It shows the trending crypto currencies that are available in the market, with that latest
